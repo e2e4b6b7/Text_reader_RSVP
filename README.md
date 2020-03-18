@@ -1,1 +1,1 @@
-# Text_reader_RSVP
+Читалка с использованием Rapid serial visual presentation
